@@ -4,7 +4,7 @@
  * @Autor: laikt
  * @Date: 2021-02-02 14:01:59
  * @LastEditors: laikt
- * @LastEditTime: 2021-02-09 09:12:11
+ * @LastEditTime: 2021-02-25 15:44:59
  */
 const constants = {
     defaultStyle: {
@@ -48,9 +48,9 @@ const constants = {
         openI18nFile: { cmd: "vueSwiftI18n.openI18nFile", title: "Open File" }
     },
     plugin: {
-        name: "e6-vue-swift-i18n",
+        name: "vue-swift-i18n",
         congratulations:
-            'Congratulations, your extension "e6-vue-swift-i18n" is now active!',
+            'Congratulations, your extension "vue-swift-i18n" is now active!',
         noUri: "please selected a json file first"
     },
     defaultConfig: {

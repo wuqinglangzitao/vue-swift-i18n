@@ -1,6 +1,6 @@
 {
-  "name": "e6-vue-swift-i18n",
-  "displayName": "e6-vue-swift-i18n",
+  "name": "vue-swift-i18n",
+  "displayName": "vue-swift-i18n",
   "description": "swift i18n plugin for vue developer",
   "publisher": "lt",
   "keywords": [
@@ -78,12 +78,12 @@
     ],
     "configuration": {
       "type": "object",
-      "title": "E6-Vue-Swift-I18n",
+      "title": "Vue-Swift-I18n",
       "properties": {
         "vueSwiftI18n.defaultLocalesPath": {
           "type": "string",
           "default": "locales",
-          "description": "Specify the 'locales' folder path for e6-vue-swift-i18n. \n (expect 'string', default 'locales')"
+          "description": "Specify the 'locales' folder path for vue-swift-i18n. \n (expect 'string', default 'locales')"
         },
         "vueSwiftI18n.doNotDisturb": {
           "type": "boolean",
